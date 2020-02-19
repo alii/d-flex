@@ -1,10 +1,10 @@
 {
   "name": "d-flex",
-  "version": "1.0.0",
-  "homepage": "https://github.com/aabbccsmith/d-flex/SimpleDOM",
+  "version": "1.0.1",
+  "homepage": "https://github.com/aabbccsmith/d-flex",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aabbccsmith/d-flex/SimpleDOM"
+    "url": "https://github.com/aabbccsmith/d-flex"
   },
   "description": "simple css positioning.",
   "main": "index.css",
