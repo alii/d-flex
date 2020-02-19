@@ -1,0 +1,14 @@
+{
+  "name": "d-flex",
+  "version": "1.0.0",
+  "homepage": "https://github.com/aabbccsmith/d-flex/SimpleDOM",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aabbccsmith/d-flex/SimpleDOM"
+  },
+  "description": "simple css positioning.",
+  "main": "index.css",
+  "author": "Alistair Smith <alistairsmith01@gmail.com> (https://aabbccsmith.dev)",
+  "license": "MIT",
+  "private": false
+}
