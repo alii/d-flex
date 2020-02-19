@@ -1,12 +1,12 @@
 {
   "name": "d-flex",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/aabbccsmith/d-flex",
   "repository": {
     "type": "git",
     "url": "https://github.com/aabbccsmith/d-flex"
   },
-  "description": "simple css positioning.",
+  "description": "Simple css positioning.",
   "main": "index.css",
   "author": "Alistair Smith <alistairsmith01@gmail.com> (https://aabbccsmith.dev)",
   "license": "MIT",
