@@ -13,8 +13,9 @@ Example:
 
 This `div` will now be flexified. You can start adding the following classes to it now.
 
-| .fill           | Adds `flex: 1`; to the element to fill up the space (if the parent is also `d-flex`)           |
+| Class           | Description                                                                                    |
 | --------------- | ---------------------------------------------------------------------------------------------- |
+| .fill           | Adds `flex: 1`; to the element to fill up the space (if the parent is also `d-flex`)           |
 | .text-right     | Makes the `text-align` be `right` (useful for positioning stuff to the right)                  |
 | .column         | Turns the parent flex direction into a column.                                                 |
 | .justify-center | Justifies the d-flex content into the center (along the main axis)                             |
